@@ -1,0 +1,4 @@
+/home/bbkgl/vimcode/iottask/build/CMakeFiles/rebuild_cache.dir
+/home/bbkgl/vimcode/iottask/build/CMakeFiles/server.dir
+/home/bbkgl/vimcode/iottask/build/CMakeFiles/edit_cache.dir
+/home/bbkgl/vimcode/iottask/build/CMakeFiles/client.dir

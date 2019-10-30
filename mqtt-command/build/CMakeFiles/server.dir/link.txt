@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/server.dir/src/server.cpp.o  -o server -Wl,-rpath,/home/bbkgl/vimcode/iottask/lib -lpthread ../lib/libpaho-mqtt3c.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/publish.dir/src/publish.cpp.o  -o publish -Wl,-rpath,/home/bbkgl/vimcode/iottask/lib ../lib/libpaho-mqtt3c.so 
